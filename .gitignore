@@ -2,6 +2,8 @@
 .ipynb_checkpoints
 # Jupyter checkpoints still available and not ignored - adding wildcards
 */.ipynb_checkpoints/*
+# adding specific file...
+.ipynb_checkpoints/Temp_data_probe_Script-checkpoint.ipynb
 
 # .csv data files
 TDP_2002_entire.csv
