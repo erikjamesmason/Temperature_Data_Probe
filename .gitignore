@@ -1,5 +1,7 @@
 # Jupyter Notebook
 .ipynb_checkpoints
+# Jupyter checkpoints still available and not ignored - adding wildcards
+*/.ipynb_checkpoints/*
 
 # .csv data files
 TDP_2002_entire.csv
