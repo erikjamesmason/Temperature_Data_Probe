@@ -21,3 +21,6 @@ TDP_2014_entire.csv
 TDP_2015_entire.csv
 TDP_2016_entire.csv
 TDP_2017_entire.csv
+
+# TDP db file
+tdpdata.db
