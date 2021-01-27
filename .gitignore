@@ -24,3 +24,4 @@ TDP_2017_entire.csv
 
 # TDP db file
 tdpdata.db
+*.orig
